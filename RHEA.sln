@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RHEA", "RHEA.csproj", "{6D403A38-561C-4545-A52C-AE3939A28334}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRHEA", "..\TestRHEA\TestRHEA.csproj", "{DD1BD628-8E43-4A3F-81B5-9E02281FC562}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRHEA", "TestRHEA\TestRHEA.csproj", "{D5C13B44-45D9-440B-B512-91FB6BBA41B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{6D403A38-561C-4545-A52C-AE3939A28334}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D403A38-561C-4545-A52C-AE3939A28334}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D403A38-561C-4545-A52C-AE3939A28334}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DD1BD628-8E43-4A3F-81B5-9E02281FC562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DD1BD628-8E43-4A3F-81B5-9E02281FC562}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DD1BD628-8E43-4A3F-81B5-9E02281FC562}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DD1BD628-8E43-4A3F-81B5-9E02281FC562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5C13B44-45D9-440B-B512-91FB6BBA41B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C13B44-45D9-440B-B512-91FB6BBA41B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C13B44-45D9-440B-B512-91FB6BBA41B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C13B44-45D9-440B-B512-91FB6BBA41B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
