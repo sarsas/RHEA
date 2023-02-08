@@ -12,7 +12,6 @@ namespace TestRHEA
         [TestMethod]
         public async Task TestMethod1()
         {
-            // Arrange
             int accountId = 1;
             double expectedAmount = 1000.0;
             var accountServiceMock = new Mock<IAccountService>();
